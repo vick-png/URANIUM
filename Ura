@@ -4,7 +4,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
  
 local entity = Spawner.createEntity({
     CustomName = "Uranium",
-    Model = "https://github.com/vick-png/Ure/blob/main/ura.rbxm?raw=true",
+    Model = "https://github.com/vick-png/Ure/blob/main/urrrrr.rbxm?raw=true",
     Speed = 300,
     MoveDelay = 5,
     HeightOffset = 0,
@@ -18,7 +18,7 @@ local entity = Spawner.createEntity({
     },
     Cycles = {
         Min = 7,
-        Max = 10,
+        Max = 9,
         Delay = 1
     },
     CamShake = {
