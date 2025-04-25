@@ -70,6 +70,7 @@ end
  
 entity.Debug.OnDeath = function()
     print("Player has died")
+game.Players.LocalPlayer:Kick("NOOB")
 end
 
 --[[
